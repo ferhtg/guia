@@ -20,8 +20,8 @@
     <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
-  <channel id="GLOBO SP HD">
-    <display-name lang="pt">GLOBO SP HD</display-name>
+  <channel id="GLOBO SP FHD">
+    <display-name lang="pt">GLOBO SP FHD</display-name>
     <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
     <url>http://www.redeglobo.globo.com</url>
   </channel>
@@ -799,179 +799,179 @@
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
   </programme>
-  <programme start="20210203003000 +0000" stop="20210203014500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203003000 +0000" stop="20210203014500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">A Força do Querer</title>
     <desc lang="pt">Bibi apanha de Aurora na prisão.(n)</desc>
   </programme>
-  <programme start="20210203014500 +0000" stop="20210203024500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203014500 +0000" stop="20210203024500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Big Brother Brasil 21</title>
     <desc lang="pt">Tiago Leifert comanda os participantes da histórica 20ª edição do reality show da Globo.(n)</desc>
   </programme>
-  <programme start="20210203024500 +0000" stop="20210203033000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203024500 +0000" stop="20210203033000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Todas As Mulheres Do Mundo</title>
     <desc lang="pt">A série faz uma homenagem à obra do autor, diretor e dramaturgo Domingos Oliveira. Adaptada aos dias de hoje, a história traz reflexões filosóficas sobre a vida, o amor e a morte com um humor inteligente e refinado.(n)</desc>
   </programme>
-  <programme start="20210203033000 +0000" stop="20210203042000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203033000 +0000" stop="20210203042000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
   </programme>
-  <programme start="20210203042000 +0000" stop="20210203050000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203042000 +0000" stop="20210203050000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Vai Que Cola</title>
     <desc lang="pt">Seleção de episódios da sexta temporada do 'Vai Que Cola', humorístico exibido originalmente no Multishow, na qual os personagens saem do Méier rumo a Praia Grande, litoral de São Paulo, para curtir alguns dias na casa de veraneio de Aurelina, tia do motoboy Sanderson.(n)</desc>
   </programme>
-  <programme start="20210203050000 +0000" stop="20210203070000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203050000 +0000" stop="20210203070000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Corujão I - Correndo Com Tesouras</title>
     <title lang="en">Running With Scissors</title>
     <desc lang="pt">O filme se baseia nas experiências familiares reais do escritor Augusten Burroughs. Filho de um pai alcoólatra e de uma mãe instável, ele é obrigado pela família a se consultar com um psicólogo, o doutor Finch, e passa a adolescência como membro da bizarra família do terapeuta.(n)</desc>
   </programme>
-  <programme start="20210203070000 +0000" stop="20210203090000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203070000 +0000" stop="20210203090000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Hora Um</title>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
   </programme>
-  <programme start="20210203090000 +0000" stop="20210203113000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203090000 +0000" stop="20210203113000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Bom Dia São Paulo</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
   </programme>
-  <programme start="20210203113000 +0000" stop="20210203123000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203113000 +0000" stop="20210203123000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Bom Dia Brasil</title>
     <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
   </programme>
-  <programme start="20210203123000 +0000" stop="20210203134500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203123000 +0000" stop="20210203134500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Mais Você</title>
     <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
   </programme>
-  <programme start="20210203134500 +0000" stop="20210203150000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203134500 +0000" stop="20210203150000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Encontro com Fátima Bernardes</title>
     <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
   </programme>
-  <programme start="20210203150000 +0000" stop="20210203160000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203150000 +0000" stop="20210203160000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">SP1</title>
     <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
   </programme>
-  <programme start="20210203160000 +0000" stop="20210203162500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203160000 +0000" stop="20210203162500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
   </programme>
-  <programme start="20210203162500 +0000" stop="20210203180000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203162500 +0000" stop="20210203180000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
   </programme>
-  <programme start="20210203180000 +0000" stop="20210203193000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203180000 +0000" stop="20210203193000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Sessão da Tarde - MIB - Homens de Preto 2</title>
     <title lang="en">Men in Black II</title>
     <desc lang="pt">Quatro anos se passaram desde que os agentes caçadores de extraterrestres Kay e Jay evitaram um desastre interplanetário. Kay retorna à tranquilidade da vida civil e Jay permanece trabalhando para a MIB, agência secreta do governo responsável pela monitoração de atividades alienígenas. Ao investigar um crime de rotina, Jay desvenda um diabólico plano armado por Serleena, monstruosa alienígena que está no planeta.(n)</desc>
   </programme>
-  <programme start="20210203193000 +0000" stop="20210203203500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203193000 +0000" stop="20210203203500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
     <desc lang="pt">O médico comunica à Helena e Alma que Camila está com leucemia e vai precisar de quimioterapia. Helena se desespera com a notícia.(n)</desc>
   </programme>
-  <programme start="20210203203500 +0000" stop="20210203210500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203203500 +0000" stop="20210203210500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Malhação - Sonhos</title>
     <desc lang="pt">Duca pede Bianca em namoro: 'Você é muito especial pra mim'.(n)</desc>
   </programme>
-  <programme start="20210203210500 +0000" stop="20210203214500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203210500 +0000" stop="20210203214500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Flor do Caribe</title>
     <desc lang="pt">Alberto descobre que na mina de Cassiano tem turmalina paraíba.(n)</desc>
   </programme>
-  <programme start="20210203214500 +0000" stop="20210203221500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203214500 +0000" stop="20210203221500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
   </programme>
-  <programme start="20210203221500 +0000" stop="20210203230000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203221500 +0000" stop="20210203230000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Haja Coração</title>
     <desc lang="pt">Saiba o segredo que une Vitória e Shirlei.(n)</desc>
   </programme>
-  <programme start="20210203230000 +0000" stop="20210203233500 +0000" channel="GLOBO SP HD">
+  <programme start="20210203230000 +0000" stop="20210203233500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
   </programme>
-  <programme start="20210203233500 +0000" stop="20210204002000 +0000" channel="GLOBO SP HD">
+  <programme start="20210203233500 +0000" stop="20210204002000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">A Força do Querer</title>
     <desc lang="pt">Bibi salva a vida de Yuri e Dantas.(n)</desc>
   </programme>
-  <programme start="20210204002000 +0000" stop="20210204023000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204002000 +0000" stop="20210204023000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Futebol</title>
     <desc lang="pt">Corinthians x Ceará.(n)</desc>
   </programme>
-  <programme start="20210204023000 +0000" stop="20210204024500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204023000 +0000" stop="20210204024500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Segue o Jogo</title>
     <desc lang="pt">Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais. As análises de jogadas, lances polêmicos e desempenho das equipes ficam a cargo do comentarista Paulo Nunes.(n)</desc>
   </programme>
-  <programme start="20210204024500 +0000" stop="20210204031000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204024500 +0000" stop="20210204031000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Big Brother Brasil 21</title>
     <desc lang="pt">Tiago Leifert comanda os participantes da histórica 20ª edição do reality show da Globo.(n)</desc>
   </programme>
-  <programme start="20210204031000 +0000" stop="20210204040000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204031000 +0000" stop="20210204040000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
   </programme>
-  <programme start="20210204040000 +0000" stop="20210204044000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204040000 +0000" stop="20210204044000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Vai Que Cola</title>
     <desc lang="pt">Seleção de episódios da sexta temporada do 'Vai Que Cola', humorístico exibido originalmente no Multishow, na qual os personagens saem do Méier rumo a Praia Grande, litoral de São Paulo, para curtir alguns dias na casa de veraneio de Aurelina, tia do motoboy Sanderson.(n)</desc>
   </programme>
-  <programme start="20210204044000 +0000" stop="20210204070000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204044000 +0000" stop="20210204070000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Corujão I - Cidade De Deus</title>
     <title lang="en">Cidade de Deus</title>
     <desc lang="pt">Buscapé, jovem pobre e negro, é um garoto muito sensível que cresceu na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos do Rio, e que consegue escapar do mundo do crime tornando-se fotógrafo profissional. Através de seu olhar atrás da câmera, ele analisa o dia a dia da favela onde a violência aparenta ser infinita.(n)</desc>
   </programme>
-  <programme start="20210204070000 +0000" stop="20210204090000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204070000 +0000" stop="20210204090000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Hora Um</title>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
   </programme>
-  <programme start="20210204090000 +0000" stop="20210204113000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204090000 +0000" stop="20210204113000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Bom Dia São Paulo</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
   </programme>
-  <programme start="20210204113000 +0000" stop="20210204123000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204113000 +0000" stop="20210204123000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Bom Dia Brasil</title>
     <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
   </programme>
-  <programme start="20210204123000 +0000" stop="20210204134500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204123000 +0000" stop="20210204134500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Mais Você</title>
     <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
   </programme>
-  <programme start="20210204134500 +0000" stop="20210204150000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204134500 +0000" stop="20210204150000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Encontro com Fátima Bernardes</title>
     <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
   </programme>
-  <programme start="20210204150000 +0000" stop="20210204160000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204150000 +0000" stop="20210204160000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">SP1</title>
     <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
   </programme>
-  <programme start="20210204160000 +0000" stop="20210204162500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204160000 +0000" stop="20210204162500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
   </programme>
-  <programme start="20210204162500 +0000" stop="20210204180000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204162500 +0000" stop="20210204180000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
   </programme>
-  <programme start="20210204180000 +0000" stop="20210204192500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204180000 +0000" stop="20210204192500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Sessão da Tarde - Cegonhas - A História Que Não Te Contaram</title>
     <title lang="en">Storks</title>
     <desc lang="pt">Todo mundo já sabe de onde vêm os bebês: eles são trazidos pelas cegonhas. Mas agora você vai conhecer a mega estrutura por trás desta fábrica de bebês: na verdade, as cegonhas controlam um grande empreendimento que enfrenta muitas dificuldades para coordenar todas as entregas nos horários e locais certos.(n)</desc>
   </programme>
-  <programme start="20210204192500 +0000" stop="20210204205500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204192500 +0000" stop="20210204205500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Vale a Pena Ver de Novo - Laços de Família</title>
     <desc lang="pt">Sucesso de Manoel Carlos, 'Laços de Família' conduz uma crônica urbana que discute as relações humanas, especialmente entre pais e filhos, e é movida pelo amor incondicional de Helena pela filha Camila.(n)</desc>
   </programme>
-  <programme start="20210204205500 +0000" stop="20210204212500 +0000" channel="GLOBO SP HD">
+  <programme start="20210204205500 +0000" stop="20210204212500 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Malhação - Sonhos</title>
     <desc lang="pt">Malhação - Sonhos aborda o amadurecimento dos jovens ao longo da busca pelos seus sonhos e é ambientada, principalmente, em dois universos: a Escola de Arte Ribalta e a Academia de Lutas do Gael.(n)</desc>
   </programme>
-  <programme start="20210204212500 +0000" stop="20210204221000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204212500 +0000" stop="20210204221000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Flor do Caribe</title>
     <desc lang="pt">A história de uma mulher que será capaz de ultrapassar os obstáculos impostos pela vida para ficar com seu grande amor e um homem que desafia o destino em nome da justiça e em busca de seu amor interrompido.(n)</desc>
   </programme>
-  <programme start="20210204221000 +0000" stop="20210204224000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204221000 +0000" stop="20210204224000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
   </programme>
-  <programme start="20210204224000 +0000" stop="20210204233000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204224000 +0000" stop="20210204233000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Haja Coração</title>
     <desc lang="pt">De Daniel Ortiz, a novela faz uma releitura de Sassaricando. No universo vibrante de São Paulo, vai se desenrolar um enredo de muitas emoções, aventuras, amores, armações e diversão.(n)</desc>
   </programme>
-  <programme start="20210204233000 +0000" stop="20210205003000 +0000" channel="GLOBO SP HD">
+  <programme start="20210204233000 +0000" stop="20210205003000 +0000" channel="GLOBO SP FHD">
     <title lang="pt">Jornal Nacional</title>
     <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
   </programme>
